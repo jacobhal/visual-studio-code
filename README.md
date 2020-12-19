@@ -28,18 +28,26 @@
  * TODO
 
 ## My favourite extensions
-* Night owl (theme)
-* Atom keymap (if you want Atom shortcuts)
+* Night owl / Monokai Pro (theme)
 * Bookmark (bookmark bits of code)
 * Bracket pair colorizer
 * ES 7 React/Redux/GraphQL snippets
 * Fira code font (symbols for != etc)
 * Import cost (size of imports)
 * Prettier (code formatting)
+* Color Highlight
 * Auto-Close Tag
-* ESLint/TSLint
+* Auto Rename Tag
+* ESLint
+* Image preview
 * Settings Sync
 * Path Intellisense
+* Paste and indent
+* DotENV
+* Intellisense for CSS classes
 * Trailing Whitespace Visualizer
 * Debugger for Chrome
+* Settings SYNC
+* TODO Highlight
+* Visual Studio IntelliCode
 
