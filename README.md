@@ -29,6 +29,7 @@
 
 ## My favourite extensions
 * Markdown All in One
+* Markdown Table Prettifier
 * Night owl / Monokai Pro (theme)
 * Bookmark (bookmark bits of code)
 * Bracket pair colorizer
