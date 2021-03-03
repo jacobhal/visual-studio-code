@@ -11,9 +11,10 @@
 * Jump to end of line: **Ctrl + End**
 * Take a screenshot and save to clipboard: **Windows key + Shift + S**
 
-### Default Visual Studio Code
+### Default Visual Studio Code (Windows/Mac)
 * Code navigation
- * TODO
+ * Command Palette: Windows: **Ctrl + Shift + P**, Mac: **CMD + Shift + P**
+ * Go to File: Windows: **Ctrl + P**, Mac: **CMD + P**
 * Preview
   * View README.md preview: **Ctrl + Shift + V**
 * Searching
