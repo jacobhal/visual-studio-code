@@ -29,6 +29,7 @@
  * TODO
 
 ## My favourite extensions
+* Tabnine Autocomplete AI
 * Markdown All in One
 * Markdown Table Prettifier
 * Night owl / Monokai Pro (theme)
