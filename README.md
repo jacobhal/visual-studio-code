@@ -15,6 +15,7 @@
 * Code navigation
  * Command Palette: Windows: **Ctrl + Shift + P**, Mac: **CMD + Shift + P**
  * Go to File: Windows: **Ctrl + P**, Mac: **CMD + P**
+ * Move line up/down: Windows **Alt + Up/Down arrow**, Mac: **Option + Up/Down arrow**
 * Preview
   * View README.md preview: **Ctrl + Shift + V**
 * Searching
