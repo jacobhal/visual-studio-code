@@ -16,6 +16,7 @@
  * Command Palette: Windows: **Ctrl + Shift + P**, Mac: **CMD + Shift + P**
  * Go to File: Windows: **Ctrl + P**, Mac: **CMD + P**
  * Move line up/down: Windows **Alt + Up/Down arrow**, Mac: **Option + Up/Down arrow**
+ * Shrink/expand selection: Windows **Shift + Alt + Left / Shift + Alt + Right** Mac: **Shift + Ctrl + CMD + Left / Shift + Ctrl + CMD + Right**
 * Preview
   * View README.md preview: **Ctrl + Shift + V**
 * Searching
